@@ -6,3 +6,5 @@ LeetCode算法解析
 3. [[简单]搜索插入位置](https://github.com/wangmeijian/leetcode/blob/master/docs/3.md)
 4. [[中等]只出现一次的数字](https://github.com/wangmeijian/leetcode/blob/master/docs/4.md)
 5. [[简单]连续子数组的最大和](https://github.com/wangmeijian/leetcode/blob/master/docs/5.md)
+6. [[简单]最大连续1的个数](https://github.com/wangmeijian/leetcode/blob/master/docs/6.md)
+7. [[简单]两数之和 II - 输入有序数组](https://github.com/wangmeijian/leetcode/blob/master/docs/7.md)
