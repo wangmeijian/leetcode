@@ -8,4 +8,5 @@ LeetCode算法解析
 5. [[简单]连续子数组的最大和](https://github.com/wangmeijian/leetcode/blob/master/docs/5.md)
 6. [[简单]最大连续1的个数](https://github.com/wangmeijian/leetcode/blob/master/docs/6.md)
 7. [[简单]两数之和 II - 输入有序数组](https://github.com/wangmeijian/leetcode/blob/master/docs/7.md)
-8. [[简单]下一个更大元素I](https://github.com/wangmeijian/leetcode/issues/1)
+8. [[简单]判断子序列](https://github.com/wangmeijian/leetcode/blob/master/docs/8.md)
+9. [[简单]下一个更大元素I](https://github.com/wangmeijian/leetcode/blob/master/docs/9.md)
