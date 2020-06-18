@@ -10,3 +10,4 @@ LeetCode算法解析
 7. [[简单]两数之和 II - 输入有序数组](https://github.com/wangmeijian/leetcode/blob/master/docs/7.md)
 8. [[简单]判断子序列](https://github.com/wangmeijian/leetcode/blob/master/docs/8.md)
 9. [[简单]下一个更大元素I](https://github.com/wangmeijian/leetcode/blob/master/docs/9.md)
+10. [[简单]爬楼梯](https://github.com/wangmeijian/leetcode/blob/master/docs/10.md)
